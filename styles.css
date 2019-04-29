@@ -1,0 +1,33 @@
+body {
+  background-image: radial-gradient(beige, red);
+  color: white;
+}
+img {
+  width: 400px;
+}
+.water {
+  color: green;
+}
+p {
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: gold;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+.sharknote{
+  font-size: 12px;
+}
+
+section {
+  display: flex;
+  justify-content: space-evenly;
+  border: double 10px green;
+}
