@@ -33,7 +33,7 @@ h2 {
   font-size: 30px;
 }
 .sharknote {
-  font-size: 12px;
+  font-size: 15px;
 }
 
 section {
@@ -41,6 +41,14 @@ section {
   justify-content: space-evenly;
   border: double 10px green;
 }
+marquee {
+  font-size: 30px;
+}
+.construction {
+  width: 100px;
+  margin-left: 15px;
+}
 footer {
   float: right;
+  margin-right: 10px;
 }

@@ -17,5 +17,5 @@ function changeImage() {
                 blinks[i].style.visibility = visibility;
               }
               visibility = (visibility === 'visible') ? 'hidden' : 'visible';
-            }, 250);
+            }, 750);
           })();
