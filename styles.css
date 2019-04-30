@@ -5,7 +5,7 @@ body {
 img {
   width: 400px;
 }
-.water {
+blink {
   color: green;
 }
 p {
@@ -13,6 +13,15 @@ p {
   margin-left: 20px;
   margin-right: 20px;
   color: gold;
+  font-size: 30px;
+}
+
+input {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 140px;
+  border-radius: 10px;
+  font-size: 20px;
 }
 h1 {
   text-align: center;
@@ -21,8 +30,9 @@ h1 {
 h2 {
   text-align: center;
   color: white;
+  font-size: 30px;
 }
-.sharknote{
+.sharknote {
   font-size: 12px;
 }
 
@@ -30,4 +40,7 @@ section {
   display: flex;
   justify-content: space-evenly;
   border: double 10px green;
+}
+footer {
+  float: right;
 }
