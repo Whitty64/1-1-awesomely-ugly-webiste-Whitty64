@@ -19,3 +19,4 @@ function changeImage() {
               visibility = (visibility === 'visible') ? 'hidden' : 'visible';
             }, 750);
           })();
+          /*https://en.wikipedia.org/wiki/Blink_element*/

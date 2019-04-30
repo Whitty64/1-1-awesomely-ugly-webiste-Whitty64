@@ -1,6 +1,7 @@
 body {
   background-image: radial-gradient(beige, red);
   color: white;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 img {
   width: 400px;
